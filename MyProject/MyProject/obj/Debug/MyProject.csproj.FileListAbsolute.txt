@@ -1,0 +1,16 @@
+C:\Users\Hp\source\repos\MyProject\MyProject\obj\Debug\MyProject.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\MyProject\MyProject\obj\Debug\MyProject.One.resources
+C:\Users\Hp\source\repos\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\Hp\source\repos\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\MyProject\MyProject\obj\Debug\MyProject.bookingcosttxt.resources
+C:\Users\Hp\source\repos\MyProject\MyProject\obj\Debug\MyProject.ConfirmationBooking.resources
+C:\Users\Hp\source\repos\MyProject\MyProject\obj\Debug\MyProject.Fronttxt.resources
+C:\Users\Hp\source\repos\MyProject\MyProject\obj\Debug\MyProject.Logintxt.resources
+C:\Users\Hp\source\repos\MyProject\MyProject\obj\Debug\MyProject.RegistretionCustomer.resources
+C:\Users\Hp\source\repos\MyProject\MyProject\obj\Debug\MyProject.RegForm.resources
+C:\Users\Hp\source\repos\MyProject\MyProject\obj\Debug\MyProject.tablebooktxt.resources
+C:\Users\Hp\source\repos\MyProject\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\Hp\source\repos\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\Users\Hp\source\repos\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\Users\Hp\source\repos\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\Users\Hp\source\repos\MyProject\MyProject\obj\Debug\MyProject.pdb
